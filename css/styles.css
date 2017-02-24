@@ -1,0 +1,82 @@
+.jumbotron {
+  background-color:#06557a;
+  background-repeat: repeat;
+  color: #C0C0C0;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.jumbotron .glyphicon {
+  font-size: 128px;
+  color: #8f5904;
+  margin-top: 5px;
+}
+
+.jumbotron .glyphicon:hover {
+  color: #fff;
+}
+
+.jumbotron h1 {
+    font-size: 104px;
+}
+
+.nostyle {
+  text-decoration: none;
+  color: #8f2604;
+}
+
+.nostyle:hover {
+  text-decoration: none;
+  color: #8F1C04;
+}
+
+.sidebar {
+  background-color: #8f5904;
+  padding: 50px;
+  padding-top: 30px;
+  margin: 30px;
+  box-shadow: 5px 5px #048f59;
+}
+
+.sidebar a {
+  color: #8F1C04;
+}
+
+.sidebar h4 {
+  color: #8F1C04;
+}
+
+.container {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.game {
+  margin: 60px;
+  margin-left: 0px;
+  box-shadow:5px 5px #048f59;
+  background-color: #8f5904;
+  padding: 30px;
+}
+
+.game h4 {
+  color: #8F1C04;
+}
+
+.game h2 {
+  color: #08087A;
+}
+
+.btn {
+  font-style: italic;
+  margin-top: 25px;
+}
+
+body {
+  background-color: #7a0707;
+}
+
+.glyphicon {
+  font-size: 24px;
+  color: #F2BC14;
+}
